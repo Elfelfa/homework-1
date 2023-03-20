@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Start header functions*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +37,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*End header functions*/
 
 a {
     color: #ffffff;
@@ -46,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/*Background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +58,7 @@ p {
     background-position: center;
 }
 
+/*Start padding functions*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -64,13 +68,17 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*End padding functions*/
 
+/*Start main body information*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/*End main body information*/
 
+/*Start sidebar information*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,6 +137,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*End sidebar information*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -139,6 +148,7 @@ p {
     color: #ffffff;
 }
 
+/*Start customization for sections with images*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -183,7 +193,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*End customization for sections with images*/
 
+/*Bottom of page containing copyright information*/
 .footer {
     padding: 30px;
     clear: both;
